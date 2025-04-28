@@ -1,0 +1,4 @@
+#Functions
+def hi(name):
+    return f"Hello,{name}"
+print(hi("students"))
